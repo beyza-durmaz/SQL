@@ -1,4 +1,4 @@
-## React ve MySQL ile kullanıcı bilgileri CRUD çalışması
+# React ve MySQL ile kullanıcı bilgileri CRUD çalışması
 
 **Proje'nin Amacı?** 
 
@@ -6,7 +6,7 @@ Bu çalışma, SQL'i, MySQL'i ve SQL'de CRUD (Create, Read, Update, Delete) işl
 
 ---
 
-### Kurulum
+## Kurulum
 ```
 # Repoyu klonla
 git clone https://github.com/beyza-durmaz/SQL.git
@@ -31,7 +31,7 @@ npm start
 
 ---
 
-### Kullanım
+## Kullanım
 
 * Add butonuna tıklayarak kullanıcı ekleyebilirisin.
 
