@@ -33,7 +33,7 @@ npm start
 
 ## Kullanım
 
-* Add butonuna tıklayarak kullanıcı ekleyebilirisin.
+* Add butonuna tıklayarak kullanıcı ekleyebilirsin.
 
 * Update butonuna tıklayarak varolan bir kullanıcıyı güncelleyebilirsin.
 
