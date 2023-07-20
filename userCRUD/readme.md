@@ -2,6 +2,7 @@
 
 **Proje'nin Amacı?** 
 Bu çalışma, SQL'i, MySQL'i ve SQL'de CRUD (Create, Read, Update, Delete) işlemlerini öğrenme amacıyla yapılmıştır. Aynı zamanda, kullanıcıların frontend kısmında, veritabanındaki değişiklikleri yapabilmelerini sağlamaktır. Bu projede, kullanıcılar veritabanıyla etkileşime geçebilir, veri ekleyebilir, görüntüleyebilir, güncelleyebilir ve silebilirler.
+
 ---
 ### Kurulum
 ```
