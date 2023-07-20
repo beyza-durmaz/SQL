@@ -1,5 +1,4 @@
 ## React ve MySQL ile kullanıcı bilgileri CRUD çalışması
----
 
 **Proje'nin Amacı?** 
 
