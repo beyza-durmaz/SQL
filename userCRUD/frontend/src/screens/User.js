@@ -24,7 +24,8 @@ const User = () => {
         <div className='d-flex vh-100 bg-secondary justify-content-center align-items-center'>
             <div className="w-50 bg-white rounded p-3">
                 <Link to={"/create"} className="btn btn-success mb-3">Add</Link>
-                <table className='table'>
+                {users.length > 0 ? (
+                    <table className='table'>
                     <thead>
                         <tr>
                             <th>Name</th>
@@ -50,6 +51,9 @@ const User = () => {
                         }
                     </tbody>
                 </table>
+                ) : (
+                    <p>Loading...</p>
+                )}
             </div>
         </div>
     )
