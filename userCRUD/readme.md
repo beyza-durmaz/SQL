@@ -47,12 +47,13 @@ Sonrasında şifre değişmiş oluyor ve bu yeni şifreyi kullanarak benim datab
 
 
 * __MySQL Workbench'ini açın.__
+Yeni şifreyi kullanarak giriş yapın.
 * __SQL Dosyasını Açma:__
 Workbench ana ekranında, "File" menüsüne gidin ve "Open SQL Script" seçeneğini seçin. Ardından, proje dizininizdeki userCRUD klasörü altında bulunan users_user_table.sql dosyasını seçin ve açın.
 * __SQL Dosyasını Çalıştırma:__
 Açılan SQL dosyasında, tabloyu oluşturan SQL komutları bulunur. Bu komutları çalıştırmak için, Workbench ekranının sol üst köşesindeki sarı renkli şimşek simgesine tıklayın veya "Query" menüsünden "Execute (All or Selection)" seçeneğini seçin. Böylece, SQL komutları veritabanında çalıştırılır ve tablo oluşturulur.
 * __Tabloyu Görüntüleme:__
-Oluşturulan tabloyu görmek için Workbench ekranının sol tarafındaki "Schemas" bölümünü açın ve tablonun bulunduğu veritabanını seçin. Ardından "Tables" altında user_table isimli tabloyu göreceksiniz. Sağ tıklayın ve "Select Rows" seçeneğini seçerek tabloyu görüntüleyebilirsiniz. Tabloda bulunan veriler burada görüntülenecektir.
+Oluşturulan tabloyu görmek için Workbench ekranının sol tarafındaki "Schemas" bölümünü açın(eğer tablonuz gözükmüyorsa sayfa yenileme ikonu bulunuyor o bölümde, ona tıklayın gelecektir) ve tablonun bulunduğu veritabanını seçin. Ardından "Tables" altında user_table isimli tabloyu göreceksiniz. Sağ tıklayın ve "Select Rows" seçeneğini seçerek tabloyu görüntüleyebilirsiniz. Tabloda bulunan veriler burada görüntülenecektir.
 
 * Daha sonrasında backend ve frontend klasörlerine gidin ve her birinde terminal açın.
 ```
