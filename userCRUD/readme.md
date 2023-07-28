@@ -12,6 +12,7 @@ Bu projede, kullanıcılar veri tabanı ile etkileşime girebilir, veri ekleyebi
 ## Önkoşullar
 * Node.js (En son LTS sürümü önerilir)
 * MySQL (yerel olarak çalıştırmak veya uzak bir veritabanı sunucusu kullanmak)
+
 https://www.youtube.com/watch?v=GwHpIl0vqY4
 (bu videoyu izleyerek bilgisayarınıza MySQL kurulumunu yapabilirsiniz)
 
