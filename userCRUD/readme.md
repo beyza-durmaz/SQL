@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=GwHpIl0vqY4
 
 ## Kurulum
 
-1. Repoyu klonla ya da ZIP olarak indir.
+1. Repoyu klonla ya da ZIP olarak indirin ve VSCode da açın.
 ```
 git clone https://github.com/beyza-durmaz/SQL.git
 ```
