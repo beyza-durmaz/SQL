@@ -34,6 +34,7 @@ mysql -u root -p
 \sql
 ```
 * Aşağıdaki komutlardan herhangi birini kullanarak yeni kullanıcı şifresini ayarlayın:
+(eğer hata verirse bir kez daha deneyin)
 ```
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'mysql123';
 ---
