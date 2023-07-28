@@ -28,7 +28,7 @@ git clone https://github.com/beyza-durmaz/SQL.git
 ```
 mysql -u root -p
 ```
-*komutu çalıştırdıktan sonra, size root kullanıcısının şifresini girmeniz gerektiğini belirten bir istem alacaksınız. Root şifrenizi girin ve enter tuşuna basın.(mysql kurulumu yaparken verdiğiniz şifre)*
+*komutu çalıştırdıktan sonra, size root kullanıcısının şifresini girmeniz gerektiğini belirten bir istem alacaksınız. Root şifrenizi girin (mysql kurulumu yaparken verdiğiniz şifre) ve enter tuşuna basın.*
 * Aşağıdaki komutu kullanarak SQL moduna geçin.
 ```
 \sql
