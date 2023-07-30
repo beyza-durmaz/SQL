@@ -18,6 +18,13 @@ https://www.youtube.com/watch?v=GwHpIl0vqY4
 
 ## Kurulum
 
+Bilgisayarınıza repoyu indirdikten sonra,
+backend ve frontend i başlatmadan önce ilk olarak database'e erişmeniz gerekiyor.
+
+Bunun için localinizde mySQL workbench'ini ve komut satırını açıp aşağıdaki talimatlara göre ilerleyin.
+
+Sonrasında backend ve frontend çalıştırılacak.
+
 1. Repoyu klonla ya da ZIP olarak indirin ve VSCode da açın.
 ```
 git clone https://github.com/beyza-durmaz/SQL.git
