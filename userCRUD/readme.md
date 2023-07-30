@@ -1,5 +1,5 @@
 # React - Node/Express - MySQL
-A simple CRUD made with Reactjs, Nodejs and Mysql
+Reactjs, Nodejs ve Mysql ile yapılmış basit bir CRUD çalışması
 
 **Proje'nin Amacı?** 
 
