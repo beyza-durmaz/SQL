@@ -30,7 +30,7 @@ Eğer bilgisayarınıza __ilk defa yüklüyorsanız__ kurulumu yaparken sizden b
 
 ---
 
-Sonrasında alttaki şifreyi değiştirme işlemlerini yapmadan direk mySQL workbench'ini açma satırına geçebilirsiniz.
+Sonrasında alttaki şifreyi değiştirme işlemlerini yapmadan direk __mySQL workbench'ini açma__ satırına geçebilirsiniz.
 
 ---
 
