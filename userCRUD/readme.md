@@ -25,7 +25,7 @@ Bunun için öncelikle bilgisayarınızda __mySQL'in yüklü olması gerekiyor._
 
 Eğer bilgisayarınıza __ilk defa yüklüyorsanız__ kurulumu yaparken sizden bir şifre isteyecek orada __"password"__ şifresini verin. 
 
-Sonrasında alttaki şifreyi değiştirme işlemlerini yapmadan direk mySQL workbench'ini açma yerine geçebilirsiniz ve database e erişebilirsiniz.
+Sonrasında alttaki şifreyi değiştirme işlemlerini yapmadan direk mySQL workbench'ini açma satırına geçebilirsiniz.
 
 Eğer önceden __mySQL bilgisayarınıza yüklü ve halihazırda bir şifreniz varsa__ o zaman alttaki talimatları baştan sona uygulayın, __halihazırda olan şifrenizi değiştirmeniz gerekecek.__
 
