@@ -27,7 +27,7 @@ Eğer bilgisayarınıza ilk defa yüklüyorsanız kurulumu yaparken sizden bir �
 
 Sonrasında alttaki şifreyi değiştirme işlemlerini yapmadan direk mySQL workbench'ini açma yerine geçebilirsiniz ve database e erişebilirsiniz.
 
-Eğer önceden mySQL bilgisayarınıza yüklü ve halihazırda bir şifreniz varsa o zaman alttaki talimatları baştan sona uygulayın, o şifreyi değiştirmeniz gerekecek.
+Eğer önceden mySQL bilgisayarınıza yüklü ve halihazırda bir şifreniz varsa o zaman alttaki talimatları baştan sona uygulayın, halihazırda olan şifrenizi değiştirmeniz gerekecek.
 
 Bunun için localinizde mySQL workbench'ini ve komut satırını açıp aşağıdaki talimatlara göre ilerleyin.
 
