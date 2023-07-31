@@ -61,6 +61,8 @@ mysql -u root -p
 ```
 * Aşağıdaki komutlardan herhangi birini kullanarak yeni kullanıcı şifresini ayarlayın:
 (eğer hata verirse bir kez daha deneyin)
+
+*burada 'mysql123' yerine kendi yeni şifrenizi ya da bağlanmak istediğiniz database in şifresini yazın.(benim database'ime erişmek için backend klörünün içerisinde index.js dosyasında host, user, password ve database bilgilerim bulunmaktadır oradan öğrenebilirsiniz.)*
 ```
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'mysql123';
 ---
@@ -68,7 +70,6 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'mysql123
 ---
 SET PASSWORD FOR 'root'@'localhost' = PASSWORD('mysql123');
 ```
-*burada 'mysql123' yerine kendi yeni şifrenizi ya da bağlanmak istediğiniz database in şifresini yazın.(benim database'ime erişmek için backend klörünün içerisinde index.js dosyasında host, user, password ve database bilgilerim bulunmaktadır oradan öğrenebilirsiniz.)*
 
 Sonrasında şifre değişmiş oluyor ve bu yeni şifreyi kullanarak benim database tabloma erişebilirsiniz.
 
