@@ -21,17 +21,28 @@ https://www.youtube.com/watch?v=GwHpIl0vqY4
 Bilgisayarınıza repoyu indirdikten sonra,
 backend ve frontend i başlatmadan önce ilk olarak database'e erişmeniz gerekiyor.
 
+---
 Bunun için öncelikle bilgisayarınızda __mySQL'in yüklü olması gerekiyor.__ Eğer yüklü değilse yukarıda belirttiğim video'yu izleyerek yükleyebilirsiniz.
+
+---
 
 Eğer bilgisayarınıza __ilk defa yüklüyorsanız__ kurulumu yaparken sizden bir şifre isteyecek orada __"password"__ şifresini verin. 
 
+---
+
 Sonrasında alttaki şifreyi değiştirme işlemlerini yapmadan direk mySQL workbench'ini açma satırına geçebilirsiniz.
 
+---
+
 Eğer önceden __mySQL bilgisayarınıza yüklü ve halihazırda bir şifreniz varsa__ o zaman alttaki talimatları baştan sona uygulayın, __halihazırda olan şifrenizi değiştirmeniz gerekecek.__
+
+---
 
 Bunun için localinizde mySQL workbench'ini ve komut satırını açıp aşağıdaki talimatlara göre ilerleyin.
 
 Sonrasında backend ve frontend çalıştırılacak.
+
+---
 
 1. Repoyu klonla ya da ZIP olarak indirin ve VSCode da açın.
 ```
