@@ -21,6 +21,14 @@ https://www.youtube.com/watch?v=GwHpIl0vqY4
 Bilgisayarınıza repoyu indirdikten sonra,
 backend ve frontend i başlatmadan önce ilk olarak database'e erişmeniz gerekiyor.
 
+Bunun için öncelikle bilgisayarınızda mySQL'in yüklü olması gerekiyor. Eğer yüklü değilse yukarıda belirttiğim video'yu izleyerek yükleyebilirsiniz.
+
+Eğer bilgisayarınıza ilk defa yüklüyorsanız kurulumu yaparken sizden bir şifre isteyecek orada "password" şifresini verin. 
+
+Sonrasında alttaki şifreyi değiştirme işlemlerini yapmadan direk mySQL workbench'ini açma yerine geçebilirsiniz ve database e erişebilirsiniz.
+
+Eğer önceden mySQL bilgisayarınıza yüklü ve halihazırda bir şifreniz varsa o zaman alttaki talimatları baştan sona uygulayın, o şifreyi değiştirmeniz gerekecek.
+
 Bunun için localinizde mySQL workbench'ini ve komut satırını açıp aşağıdaki talimatlara göre ilerleyin.
 
 Sonrasında backend ve frontend çalıştırılacak.
