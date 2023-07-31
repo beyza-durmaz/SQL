@@ -23,11 +23,11 @@ backend ve frontend i başlatmadan önce ilk olarak database'e erişmeniz gereki
 
 Bunun için öncelikle bilgisayarınızda mySQL'in yüklü olması gerekiyor. Eğer yüklü değilse yukarıda belirttiğim video'yu izleyerek yükleyebilirsiniz.
 
-Eğer bilgisayarınıza ilk defa yüklüyorsanız kurulumu yaparken sizden bir şifre isteyecek orada "password" şifresini verin. 
+Eğer bilgisayarınıza __ilk defa yüklüyorsanız__ kurulumu yaparken sizden bir şifre isteyecek orada __"password"__ şifresini verin. 
 
 Sonrasında alttaki şifreyi değiştirme işlemlerini yapmadan direk mySQL workbench'ini açma yerine geçebilirsiniz ve database e erişebilirsiniz.
 
-Eğer önceden mySQL bilgisayarınıza yüklü ve halihazırda bir şifreniz varsa o zaman alttaki talimatları baştan sona uygulayın, halihazırda olan şifrenizi değiştirmeniz gerekecek.
+Eğer önceden __mySQL bilgisayarınıza yüklü ve halihazırda bir şifreniz varsa__ o zaman alttaki talimatları baştan sona uygulayın, __halihazırda olan şifrenizi değiştirmeniz gerekecek.__
 
 Bunun için localinizde mySQL workbench'ini ve komut satırını açıp aşağıdaki talimatlara göre ilerleyin.
 
