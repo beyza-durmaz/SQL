@@ -1,5 +1,7 @@
 # React ve MySQL ile CRUD çalışması
 
+https://github.com/beyza-durmaz/SQL/assets/116080244/1e9c751d-b46d-4e19-9764-8261b213c897
+
 **Proje'nin Amacı?**
 
 Bu çalışma, SQL'i, MySQL'i ve SQL'de CRUD (Create, Read, Update, Delete) işlemlerini öğrenme amacıyla yapılmıştır. Aynı zamanda, kullanıcıların frontend kısmında, veritabanındaki değişiklikleri yapabilmelerini sağlamaktır. Bu projede, kullanıcılar veritabanıyla etkileşime geçebilir, veri ekleyebilir, görüntüleyebilir, güncelleyebilir ve silebilirler.
