@@ -1,6 +1,8 @@
 # React - Node/Express - MySQL
 Reactjs, Nodejs ve Mysql ile yapılmış basit bir CRUD çalışması
 
+https://github.com/beyza-durmaz/SQL/assets/116080244/e352d2a0-7d54-4275-8314-840bbbde951b
+
 **Proje'nin Amacı?** 
 
 Bu çalışma SQL, MySQL ve CRUD (Create, Read, Update, Delete) işlemlerini öğrenmek için yapılmıştır.
