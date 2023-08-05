@@ -1,5 +1,7 @@
 # Registration Form with MySQL, React.js and Node.js
 
+https://github.com/beyza-durmaz/SQL/assets/116080244/62e4dfcf-4ae1-4454-94ad-ec6618073c48
+
 ## Installation
 ```
 # Clone the repo
